@@ -134,9 +134,7 @@ This command launches both the API and the website services in detached mode.
 
 ## Demo
 
-```html
 <video controls width="600">
   <source src="./demo.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-```
